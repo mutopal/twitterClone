@@ -9,7 +9,7 @@ type Props = {
   navigation: MaterialBottomTabNavigationProp<{}>;
 };
 
-export const Message = () => {
+export const Message = (props) => {
   const theme = useTheme();
 
   const backgroundColor = overlay(2, theme.colors.surface) as string;
@@ -33,6 +33,14 @@ export const Message = () => {
         labelStyle={{ color: 'white' }}
       >
         Write a message
+      </Button>
+      <Button
+        onPress={() => {props.navigation.toggleDrawer();}}
+        style={styles.button}
+        mode="contained"
+        labelStyle={{ color: 'white' }}
+      >
+        Open Drawer
       </Button>
     </ScrollView>
   );
