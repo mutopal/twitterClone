@@ -3,7 +3,7 @@ import { TouchableOpacity } from 'react-native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { DrawerNavigationProp } from '@react-navigation/drawer';
 import { Appbar, Avatar, useTheme } from 'react-native-paper';
-import { MaterialCommunityIcons } from '@expo/vector-icons';
+import { AntDesign  } from '@expo/vector-icons';
 
 import { BottomTabs } from './bottomTabs';
 import { Details } from './details';
@@ -56,9 +56,9 @@ export const StackNavigator = () => {
               <Appbar.Content
                 title={
                   title === 'Feed' ? (
-                    <MaterialCommunityIcons
+                    <AntDesign 
                       style={{ marginRight: 10 }}
-                      name="twitter"
+                      name="QQ"
                       size={40}
                       color={theme.colors.primary}
                     />
