@@ -5,6 +5,7 @@ import { AppearanceProvider } from 'react-native-appearance';
 import { Main } from './src/main';
 
 export default function App() {
+  console.disableYellowBox = true;
   return (
     <SafeAreaProvider>
       <AppearanceProvider>

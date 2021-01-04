@@ -91,7 +91,7 @@ export const StackNavigator = () => {
       <Stack.Screen
         name="Details"
         component={Details}
-        options={{ headerTitle: 'Tweet' }}
+        options={{ headerTitle: 'Finker' }}
       />
     </Stack.Navigator>
   );

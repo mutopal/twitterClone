@@ -181,4 +181,94 @@ export const notificationTweets: Array<NotificationTwittProps> = [
       },
     ],
   },
+  {
+    id:7,
+    content:
+      'In any case, the focus is not react navigation, but the possibility of writing your app once and running it on several different platforms.  Then you use the technology you want, for example for the interface, I choose @rn_paper',
+    name: 'Leandro Fevre',
+    people: [
+      {
+        name: 'Evan Bacon 🥓',
+        image:
+          'https://pbs.twimg.com/profile_images/1274435026482937858/JZmznbJO_400x400.jpg',
+      },
+      {
+        name: 'Leandro Favre',
+        image:
+          'https://pbs.twimg.com/profile_images/1265688225076690945/JpshyTTJ_400x400.png',
+      },
+    ],
+  },
+  {
+    id: 8,
+    content:
+      'In any case, the focus is not react navigation, but the possibility of writing your app once and running it on several different platforms.  Then you use the technology you want, for example for the interface, I choose @rn_paper',
+    name: 'Leandro Fevre',
+    people: [
+      {
+        name: 'Evan Bacon 🥓',
+        image:
+          'https://pbs.twimg.com/profile_images/1274435026482937858/JZmznbJO_400x400.jpg',
+      },
+      {
+        name: 'Leandro Favre',
+        image:
+          'https://pbs.twimg.com/profile_images/1265688225076690945/JpshyTTJ_400x400.png',
+      },
+    ],
+  },
+  {
+    id: 9,
+    content:
+      'In any case, the focus is not react navigation, but the possibility of writing your app once and running it on several different platforms.  Then you use the technology you want, for example for the interface, I choose @rn_paper',
+    name: 'Leandro Fevre',
+    people: [
+      {
+        name: 'Evan Bacon 🥓',
+        image:
+          'https://pbs.twimg.com/profile_images/1274435026482937858/JZmznbJO_400x400.jpg',
+      },
+      {
+        name: 'Leandro Favre',
+        image:
+          'https://pbs.twimg.com/profile_images/1265688225076690945/JpshyTTJ_400x400.png',
+      },
+    ],
+  },
+  {
+    id: 10,
+    content:
+      'In any case, the focus is not react navigation, but the possibility of writing your app once and running it on several different platforms.  Then you use the technology you want, for example for the interface, I choose @rn_paper',
+    name: 'Leandro Fevre',
+    people: [
+      {
+        name: 'Evan Bacon 🥓',
+        image:
+          'https://pbs.twimg.com/profile_images/1274435026482937858/JZmznbJO_400x400.jpg',
+      },
+      {
+        name: 'Leandro Favre',
+        image:
+          'https://pbs.twimg.com/profile_images/1265688225076690945/JpshyTTJ_400x400.png',
+      },
+    ],
+  },
+  {
+    id: 11,
+    content:
+      'In any case, the focus is not react navigation, but the possibility of writing your app once and running it on several different platforms.  Then you use the technology you want, for example for the interface, I choose @rn_paper',
+    name: 'Leandro Fevre',
+    people: [
+      {
+        name: 'Evan Bacon 🥓',
+        image:
+          'https://pbs.twimg.com/profile_images/1274435026482937858/JZmznbJO_400x400.jpg',
+      },
+      {
+        name: 'Leandro Favre',
+        image:
+          'https://pbs.twimg.com/profile_images/1265688225076690945/JpshyTTJ_400x400.png',
+      },
+    ],
+  },
 ];

@@ -44,7 +44,7 @@ export const Main = () => {
           theme === 'light'
             ? {
                 ...DefaultTheme,
-                colors: { ...DefaultTheme.colors, primary: '#2430ad' },
+                colors: { ...DefaultTheme.colors, primary: '#7f83d4' },
               }
             : {
                 ...DarkTheme,
